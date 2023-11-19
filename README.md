@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://jeffrymahbuubi.com)&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jeffrymahbuubi)&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/jeffrymahbuubi)&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/jeffrymahbuubi)
+[![website](./img/globe-dark.svg)](https://jeffrymahbuubi.com)&nbsp;&nbsp;
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/jeffrymahbuubi)&nbsp;&nbsp;
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/jeffrymahbuubi)&nbsp;&nbsp;
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/jeffrymahbuubi)
 
 ### Language and Tools:
 
